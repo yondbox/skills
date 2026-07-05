@@ -1,0 +1,16 @@
+schemaVersion: 1
+
+project:
+  purpose: unknown
+  preserveExistingTemplate: true
+
+quality:
+  level: standard
+  stability: balanced
+
+deployment:
+  target: unknown
+
+automation:
+  aiChangePermission: apply_after_approval
+  autoMerge: dependabot_patch_only

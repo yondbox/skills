@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "changes": [
+    {
+      "path": "",
+      "action": "create | modify | delete",
+      "risk": "low | medium | high",
+      "category": "required | recommended | optional",
+      "reason": "",
+      "pack": ""
+    }
+  ]
+}

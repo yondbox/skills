@@ -1,0 +1,29 @@
+schemaVersion: 1
+
+project:
+  name: ""
+  type: unknown
+  source: unknown
+  preserveExistingTemplate: true
+
+detected:
+  languages: []
+  frameworks: []
+  runtime: unknown
+  packageManager: unknown
+  linter: unknown
+  formatter: unknown
+  typeChecker: unknown
+  testRunner: unknown
+  ci: unknown
+  deployment: unknown
+  security: []
+  aiInstructions:
+    agentsMd: false
+    claudeMd: false
+    copilotInstructions: false
+    geminiMd: false
+
+missing: []
+risks: []
+questionsForGrill: []
